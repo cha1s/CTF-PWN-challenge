@@ -1,3 +1,3 @@
 # CTF-PWN-challenge
 
-Only Practice
+Only for practice
